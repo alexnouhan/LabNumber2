@@ -44,7 +44,7 @@ public class LabNumber2 {
 			System.out.println("  Area: " + (l * w) + " ft^2");
 			
 			
-			//promt to run again
+			//prompt to run again
 			System.out.print("Would you like to measure another room? (y/n): ");
 					
 			do {
